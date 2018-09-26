@@ -16,6 +16,6 @@ def letter_counter(input):
 
 # Uncomment the code below if you want to test out the example code
 
-# word_to_count = "banana"
-# result = letter_counter(word_to_count)
-# print(result)
+word_to_count = "banana"
+result = letter_counter(word_to_count)
+print(result)
