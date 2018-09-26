@@ -6,3 +6,4 @@ def kwargosaurus(**kwargs):
       print(key, "is big! Whimpering Kwargosaurus cries and runs away!")
 
 kwargosaurus(Velociraptor="smaller", Stegasaurus="smaller", Triceratops="smaller", Trex="bigger")
+
